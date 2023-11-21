@@ -1,0 +1,97 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Managing the Java errors
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : This project manages...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Managing the Java errors
+    internal_properties : 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
+    configuration_id : 16264582646680355309
+    type : 8
+    version :
+     version : 10.00Aae
+    icon_filename : .\VST01057-32-5.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAABR2W6sVzDxFdFl2SjqnWsWb6OEVDPcB3KxC4OZ2m5xfwngAdhZItj5wv/QpnOIadhdoWOyyph+kJRCzg==
+ elements :
+  identifier : 0x4ac37fc101b3bee4
+  elements :
+   -
+     name : WIN_Errors_OneLevel
+     identifier : 0x4406fc510001a4f3
+     internal_properties : CAAAAAgAAACehPaqGUbugU45TfbpOkSuIkHpsYYJFtNOjxi99CB0lLRerUpJ8TcwJxGLdT2zT0GLiw==
+     physical_name : .\WIN_Errors_OneLevel.wdw
+     type : 2
+   -
+     name : WIN_UseExamples
+     identifier : 0x4433c9f500022a25
+     internal_properties : CAAAAAgAAABZNQEFop+XmKdCahNWGWfF2Ur0ZF9yNShKxCfizVdHka9tQCdsltJNADqkHOQc5NQ8xA==
+     physical_name : .\WIN_UseExamples.wdw
+     type : 2
+   -
+     name : Global procedures of WD Automated management of errors
+     identifier : 0x443cb94f0000de67
+     internal_properties : CAAAAAgAAADtacXZ5lPbhFNOhq8ydo9ldXA8/FUrnbtWLcZ+5FC6XuIO44QAOn75/CaQaCjYoBD4eA==
+     physical_name : .\Procedures globales de WD Gestion des erreurs.wdg
+     type : 7
+   -
+     name : WIN_Main
+     identifier : 0x440c217900013bdd
+     internal_properties : CAAAAAgAAAB51aHlwr/3+EciSvP2O0M5Ud6k5MvfeKGKfNxNM8HdO8VvvklM9jItIBqEfAT8hHRc5A==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_Errors_SeveralLevels
+     identifier : 0x44082f3b00006bb5
+     internal_properties : CAAAAAgAAAC6kOImhcJqdXItYQpdH2ze3l/lfcT3rN22uV6OW9k7hb93WB9lndtUGwX/+bk3wzWfpw==
+     physical_name : .\WIN_Errors_SeveralLevels.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD Managing the errors.sty
+ wb_style_sheet : .\WD Managing the errors.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAAnDVk8cWrbA63G01EvvQNqQ0S5dMu9o5D5MVcpxBbs/zrt6FasAh7yl/ois/bmyHxJys4O18fJbp7JVLEnnuhr
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Managing the Java errors
+     identifier : 0x4ac37fc201b9c02c
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
